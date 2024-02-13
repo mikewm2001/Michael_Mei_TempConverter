@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Michael_Mei_TempConverter</string>
+    <string name="celsius_format">%d ºC</string>
+    <string name="fahrenheit_format">%d ºF</string>
+    <string name="fahrenheitStart">32</string>
+    <string name="celsiusStart">0</string>
+    <string name="wishWarm">I wish it were warmer.</string>
+    <string name="wishCold">I wish it were colder.</string>
+</resources>
